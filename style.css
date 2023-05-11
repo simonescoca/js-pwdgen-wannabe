@@ -1,0 +1,13 @@
+body{
+    height: 30vh;
+    background-color: #1a1d21;
+}
+
+span{
+    display: inline-block;
+    background-color: #36352d;
+    color: #e8912e;
+    padding: 0px 10px;
+    border: 1px solid #69685f;
+    border-radius: 5px;
+}
